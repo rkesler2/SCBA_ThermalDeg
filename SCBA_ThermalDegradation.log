@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.20)  26 JAN 2023 14:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.20)  27 FEB 2023 11:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -799,33 +799,77 @@ Package hyperref Info: Link coloring ON on input line 76.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 126.
+LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 103.
 
 
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <8.43146> not available
-(Font)              size <8> substituted on input line 126.
+(Font)              size <8> substituted on input line 103.
 
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 12
-6.
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 10
+3.
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <5.52061> not available
-(Font)              size <6> substituted on input line 126.
+(Font)              size <6> substituted on input line 103.
 
-LaTeX Font Info:    Calculating math sizes for size <9.03374> on input line 126
+LaTeX Font Info:    Calculating math sizes for size <9.03374> on input line 103
 .
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <4.51686> not available
-(Font)              size <5> substituted on input line 126.
+(Font)              size <5> substituted on input line 103.
 
-LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 12
-6.
+LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 10
+3.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
+
+Package natbib Warning: Citation `mensch_fire_2011' on page 2 undefined on inpu
+t line 106.
+
+
+Package natbib Warning: Citation `mensch_fire_2011' on page 2 undefined on inpu
+t line 108.
+
+
+Package natbib Warning: Citation `national_fire_protection_association_nfpa_201
+2' on page 2 undefined on input line 108.
+
+
+Package natbib Warning: Citation `romano_career_2003' on page 2 undefined on in
+put line 108.
+
+
+Package natbib Warning: Citation `berardinelli_volunteer_2008' on page 2 undefi
+ned on input line 108.
+
+
+Package natbib Warning: Citation `bowyer_career_2008' on page 2 undefined on in
+put line 108.
+
+
+Package natbib Warning: Citation `wertman_volunteer_2009' on page 2 undefined o
+n input line 108.
+
+
+Package natbib Warning: Citation `merinar_career_2010' on page 2 undefined on i
+nput line 108.
+
+
+Package natbib Warning: Citation `bib1' on page 2 undefined on input line 108.
+
+
+Package natbib Warning: Citation `mensch_emergency_2011' on page 2 undefined on
+ input line 110.
+
+
+Package natbib Warning: Citation `mensch_fire_2011' on page 2 undefined on inpu
+t line 112.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -839,11 +883,54 @@ Overfull \vbox (1.47047pt too high) has occurred while \output is active []
 
 
 [2]
-<Fig1_ThermalClass.png, id=90, 477.639pt x 234.549pt>
-File: Fig1_ThermalClass.png Graphic file (type png)
-<use Fig1_ThermalClass.png>
-Package pdftex.def Info: Fig1_ThermalClass.png  used on input line 143.
-(pdftex.def)             Requested size: 304.72693pt x 149.642pt.
+
+Package natbib Warning: Citation `putorti_thermal_2013' on page 3 undefined on 
+input line 114.
+
+
+Package natbib Warning: Citation `national_fire_protection_association_nfpa_201
+3' on page 3 undefined on input line 114.
+
+
+Package natbib Warning: Citation `madrzykowski_townhouse_2011' on page 3 undefi
+ned on input line 116.
+
+
+Package natbib Warning: Citation `willi_characterizing_2016' on page 3 undefine
+d on input line 116.
+
+
+Package natbib Warning: Citation `zevotek_impact_2018' on page 3 undefined on i
+nput line 116.
+
+
+Package natbib Warning: Citation `kerber_effect_2019' on page 3 undefined on in
+put line 116.
+
+
+Package natbib Warning: Citation `madrzykowski_fire_2017' on page 3 undefined o
+n input line 116.
+
+
+Package natbib Warning: Citation `madrzykowski_fire_2017' on page 3 undefined o
+n input line 126.
+
+
+Package natbib Warning: Citation `horn_study_2017' on page 3 undefined on input
+ line 126.
+
+
+Package natbib Warning: Citation `horn_study_2017' on page 3 undefined on input
+ line 128.
+
+
+Package natbib Warning: Citation `kesler_mechanical_2018' on page 3 undefined o
+n input line 128.
+
+
+Package natbib Warning: Citation `national_fire_protection_association_nfpa_201
+3' on page 3 undefined on input line 128.
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -857,15 +944,39 @@ ant thermal loads \OT1/cmr/m/n/10 3
 Overfull \vbox (1.47047pt too high) has occurred while \output is active []
 
 
-[3 <./Fig1_ThermalClass.png>]
-LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 170.
+[3]
 
+Package natbib Warning: Citation `kesler_mechanical_2018' on page 4 undefined o
+n input line 143.
+
+
+Package natbib Warning: Citation `kesler_mechanical_2018' on page 4 undefined o
+n input line 148.
+
+
+Package natbib Warning: Citation `kesler_mechanical_2018' on page 4 undefined o
+n input line 148.
+
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 149.
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <4.015> not available
-(Font)              size <5> substituted on input line 170.
+(Font)              size <5> substituted on input line 149.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Package natbib Warning: Citation `horn_study_2017' on page 4 undefined on input
+ line 163.
+
+
+Package natbib Warning: Citation `kesler_mechanical_2018' on page 4 undefined o
+n input line 163.
+
+
+Package natbib Warning: Citation `putorti_thermal_2013' on page 4 undefined on 
+input line 163.
+
+
+Package natbib Warning: Citation `national_fire_protection_association_nfpa_201
+3' on page 4 undefined on input line 163.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -881,6 +992,39 @@ Overfull \vbox (1.47047pt too high) has occurred while \output is active []
 
 
 [4]
+
+Package natbib Warning: Citation `putorti_thermal_2013' on page 5 undefined on 
+input line 167.
+
+
+Package natbib Warning: Citation `horn_study_2017' on page 5 undefined on input
+ line 167.
+
+
+Package natbib Warning: Citation `kesler_mechanical_2018' on page 5 undefined o
+n input line 167.
+
+
+Package natbib Warning: Citation `national_fire_protection_association_nfpa_201
+3' on page 5 undefined on input line 167.
+
+
+Package natbib Warning: Citation `utech_status_1973' on page 5 undefined on inp
+ut line 170.
+
+
+Package natbib Warning: Citation `mensch_fire_2011' on page 5 undefined on inpu
+t line 173.
+
+<Fig2_ThermalDeg.png, id=90, 469.755pt x 209.583pt>
+File: Fig2_ThermalDeg.png Graphic file (type png)
+<use Fig2_ThermalDeg.png>
+Package pdftex.def Info: Fig2_ThermalDeg.png  used on input line 177.
+(pdftex.def)             Requested size: 304.72693pt x 135.95549pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -894,27 +1038,18 @@ Overfull \vbox (1.47047pt too high) has occurred while \output is active []
 
 
 [5]
-<Fig2_ThermalDeg.png, id=139, 469.755pt x 209.583pt>
-File: Fig2_ThermalDeg.png Graphic file (type png)
-<use Fig2_ThermalDeg.png>
-Package pdftex.def Info: Fig2_ThermalDeg.png  used on input line 203.
-(pdftex.def)             Requested size: 304.72693pt x 135.95549pt.
-<Fig3_Temp.png, id=141, 382.812pt x 255.135pt>
+<Fig3_Temp.png, id=98, 382.812pt x 255.135pt>
 File: Fig3_Temp.png Graphic file (type png)
 <use Fig3_Temp.png>
-Package pdftex.def Info: Fig3_Temp.png  used on input line 212.
+Package pdftex.def Info: Fig3_Temp.png  used on input line 186.
 (pdftex.def)             Requested size: 304.72693pt x 203.10774pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 2
-17.
-(c:/texlive/2022/texmf-dist/tex/latex/base/omlcmr.fd
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 1
+91.
+ (c:/texlive/2022/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.03749> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 217.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 191.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -928,13 +1063,14 @@ lenses under radiant thermal loads
 Overfull \vbox (1.47047pt too high) has occurred while \output is active []
 
 
-[6 <./Fig2_ThermalDeg.png>]
-Overfull \hbox (12.55963pt too wide) in paragraph at lines 229--255
+[6 <./Fig2_ThermalDeg.png> <./Fig3_Temp.png>]
+Overfull \hbox (12.55963pt too wide) in paragraph at lines 203--229
  [] 
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Package natbib Warning: Citation `putorti_thermal_2013' on page 7 undefined on 
+input line 233.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -949,7 +1085,27 @@ ant thermal loads \OT1/cmr/m/n/10 7
 Overfull \vbox (1.47047pt too high) has occurred while \output is active []
 
 
-[7 <./Fig3_Temp.png>]
+[7]
+
+Package natbib Warning: Citation `putorti_thermal_2013' on page 8 undefined on 
+input line 235.
+
+
+Package natbib Warning: Citation `putorti_thermal_2013' on page 8 undefined on 
+input line 237.
+
+
+Package natbib Warning: Citation `national_fire_protection_association_nfpa_201
+3' on page 8 undefined on input line 237.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package natbib Warning: Citation `national_fire_protection_association_nfpa_201
+3' on page 8 undefined on input line 275.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -962,7 +1118,22 @@ lenses under radiant thermal loads
 Overfull \vbox (1.47047pt too high) has occurred while \output is active []
 
 
-[8] (./SCBA_ThermalDegradation.bbl
+[8]
+Underfull \hbox (badness 2980) in paragraph at lines 283--284
+\OT1/cmr/m/n/10 This project was funded as part of a sub-award agree-ment to th
+e
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 283--284
+[] \OT1/cmr/m/n/10 under DHS FEMA Assis-tance to Fire-fighter Grant
+ []
+
+(./SCBA_ThermalDegradation.bbl)
+
+Package natbib Warning: There were undefined citations.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -975,39 +1146,7 @@ ant thermal loads \OT1/cmr/m/n/10 9
 Overfull \vbox (1.47047pt too high) has occurred while \output is active []
 
 
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 61--66
-\OT1/cmr/m/n/10 Breath-ing Appa-ra-tus. [][]$http : / / www . nfpa . org / rese
-arch / resource-[]links /
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (12.65154pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/10 10 \OT1/cmr/m/it/10.03749 Thermal degradation of SCBA facepiece
- lenses under radiant thermal loads 
- []
-
-
-Overfull \vbox (1.47047pt too high) has occurred while \output is active []
-
-
-[10])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (12.65154pt too wide) has occurred while \output is active
- \OT1/cmr/m/it/10.03749 Thermal degradation of SCBA facepiece lenses under radi
-ant thermal loads \OT1/cmr/m/n/10 11
- []
-
-
-Overfull \vbox (1.47047pt too high) has occurred while \output is active []
-
-
-[11] (./SCBA_ThermalDegradation.aux)
+[9] (./SCBA_ThermalDegradation.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.99251pt have occurred.
@@ -1015,24 +1154,18 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `SCBA_ThermalDegradation.out' has changed.
-
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `SCBA_ThermalDegradation.out':
-(rerunfilecheck)             Before: 9F8B89111C3679F723DD13E25F41000B;1480
-(rerunfilecheck)             After:  E70CC8F13138442C082288E0ECEAC40B;1630.
+Package rerunfilecheck Info: File `SCBA_ThermalDegradation.out' has not changed
+.
+(rerunfilecheck)             Checksum: E70CC8F13138442C082288E0ECEAC40B;1630.
  ) 
 Here is how much of TeX's memory you used:
- 16531 strings out of 476093
- 260770 string characters out of 5795576
- 1864787 words of memory out of 5000000
- 36572 multiletter control sequences out of 15000+600000
+ 16407 strings out of 476093
+ 257945 string characters out of 5795576
+ 1863787 words of memory out of 5000000
+ 36472 multiletter control sequences out of 15000+600000
  560318 words of font info for 214 fonts, out of 8000000 for 9000
  1151 hyphenation exceptions out of 8191
- 87i,16n,131p,1005b,651s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,16n,131p,1014b,573s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/tex
 live/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-di
@@ -1049,10 +1182,10 @@ msfonts/cm/cmr9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmti10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0500.pfb
 ><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><c:/texli
 ve/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on SCBA_ThermalDegradation.pdf (11 pages, 6935069 bytes).
+Output written on SCBA_ThermalDegradation.pdf (9 pages, 6634086 bytes).
 PDF statistics:
- 290 PDF objects out of 1000 (max. 8388607)
- 232 compressed objects within 3 object streams
- 54 named destinations out of 1000 (max. 500000)
- 112 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 212 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
+ 31 named destinations out of 1000 (max. 500000)
+ 115 words of extra memory for PDF output out of 10000 (max. 10000000)
 
